@@ -1,0 +1,13 @@
+{
+  "description": "A GitHub-compatible git forge: smart-HTTP clone/push, REST v3, GraphQL and MCP.",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "license": "MIT",
+  "name": "github-core-clone-01",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
